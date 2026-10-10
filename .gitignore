@@ -6,3 +6,4 @@ Thumbs.db
 
 # private images and resume PDF: deployed via Vercel CLI, not GitHub
 assets/
+.vercel

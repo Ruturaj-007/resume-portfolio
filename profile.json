@@ -1,7 +1,7 @@
 {
   "_help": "EDIT THIS FILE ONLY. Set a section's \"show\" to false to hide it. Then run: npm run build",
   "site": {
-    "url": "https://YOUR-SITE.vercel.app",
+    "url": "https://sejal-resume-gilt.vercel.app",
     "title": "Sejal Praveen Pethkar — Computer Science Graduate, Pune",
     "description": "Personal resume of Sejal Praveen Pethkar, BSc Computer Science graduate (MIT-WPU, Pune) pursuing a PGDM at IMDR. Education, experience, projects and skills."
   },
