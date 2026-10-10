@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vercel/
+.DS_Store
+Thumbs.db
+
+# private images and resume PDF: deployed via Vercel CLI, not GitHub
+assets/

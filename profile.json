@@ -1,0 +1,289 @@
+{
+  "_help": "EDIT THIS FILE ONLY. Set a section's \"show\" to false to hide it. Then run: npm run build",
+  "site": {
+    "url": "https://YOUR-SITE.vercel.app",
+    "title": "Sejal Praveen Pethkar — Computer Science Graduate, Pune",
+    "description": "Personal resume of Sejal Praveen Pethkar, BSc Computer Science graduate (MIT-WPU, Pune) pursuing a PGDM at IMDR. Education, experience, projects and skills."
+  },
+  "name": "Sejal Praveen Pethkar",
+  "location": "Pune, Maharashtra, India",
+  "linkedin": "https://www.linkedin.com/in/sejal-pethkar/",
+  "hero": {
+    "eyebrow": "Computer Science graduate · Pune, India",
+    "greeting": "Hi, I'm Sejal.",
+    "lines": [
+      "<em>Analytical thinking.</em>",
+      "<em>People-first</em> collaboration.",
+      "A curiosity for what comes next."
+    ],
+    "intro": "I'm a Computer Science graduate from MIT-WPU, Pune, now pursuing a PGDM. I'm interested in learning, collaboration, and opportunities that connect structured thinking with real-world problem-solving.",
+    "highlight": "BSc Computer Science · MIT-WPU · 2026",
+    "highlight2": "CGPA 8.68/10",
+    "strengths": [
+      "Communication",
+      "Team Leadership",
+      "Time Management"
+    ],
+    "image": "assets/img11.jpg",
+    "imageAlt": "Sample portrait placeholder (img11)"
+  },
+  "about": {
+    "show": true,
+    "heading": "A little about me.",
+    "text": [
+      "My Computer Science degree gave me a foundation in structured thinking and problem-solving. Through my PGDM I'm now building toward Marketing and Human Resources, drawing on consumer-behaviour research, data analysis and technology-based projects.",
+      "I value communication, teamwork and time management, and I like learning by working with people and tackling practical challenges."
+    ]
+  },
+  "education": {
+    "show": true,
+    "heading": "Where I've studied.",
+    "items": [
+      {
+        "years": "2026–2028",
+        "degree": "Post Graduate Diploma in Management (PGDM)",
+        "school": "DES's Institute of Management Development and Research (IMDR), Pune",
+        "meta": "Currently pursuing"
+      },
+      {
+        "years": "2023–2026",
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "MIT World Peace University (MIT-WPU), Pune",
+        "meta": "Graduated 2026 · CGPA: 8.68/10"
+      },
+      {
+        "years": "2023",
+        "degree": "Higher Secondary School",
+        "school": "Sir Parshurambhau College, Pune",
+        "meta": "73.33%"
+      },
+      {
+        "years": "2021",
+        "degree": "Secondary School Certificate",
+        "school": "P. Jog English Medium School",
+        "meta": "87.40%"
+      }
+    ]
+  },
+  "experience": {
+    "show": true,
+    "heading": "Learning beyond the classroom.",
+    "items": [
+      {
+        "title": "Live Project / Internship Opportunity — Govind Milk",
+        "org": "Maharashtra Trade Fair",
+        "place": "Nigdi Pradhikaran, PCMC, Maharashtra",
+        "dates": "2–11 October 2026",
+        "status": "Opportunity details provided",
+        "description": "An opportunity associated with Govind Milk at the Maharashtra Trade Fair, focused on practical exposure to exhibition activities, consumer interaction, product promotion, sales support, and on-ground brand communication.",
+        "learning": [
+          "Exhibition management",
+          "Consumer engagement",
+          "Product promotion",
+          "Sales support",
+          "Brand communication",
+          "On-ground marketing"
+        ],
+        "bullets": []
+      },
+      {
+        "title": "Internship / Placement Coordinator",
+        "org": "Position of Responsibility",
+        "place": "",
+        "dates": "",
+        "status": "",
+        "description": "",
+        "learning": [],
+        "bullets": [
+          "Coordinated communication between students and organisations regarding internship and placement opportunities.",
+          "Assisted in sharing opportunity-related information and facilitating communication with students."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "show": true,
+    "heading": "Things I've worked on.",
+    "items": [
+      {
+        "title": "Effect of Instagram on Impulsive Buying Behaviour Among Teenagers",
+        "category": "Research Project",
+        "description": "Conducted survey-based research on Instagram's influence on teenagers' purchasing behaviour.",
+        "link": ""
+      },
+      {
+        "title": "Impact of Festivals on the Local Market",
+        "category": "Data Analysis Project",
+        "description": "Analysed consumer behaviour and local vendor sales using Python and data-analysis techniques.",
+        "link": ""
+      },
+      {
+        "title": "PrepWise — AI Interview Practice Platform",
+        "category": "Web Development · Next.js, Firebase, Vapi AI",
+        "description": "Developed an AI-based mock interview platform using Next.js, Firebase and Vapi AI.",
+        "link": ""
+      },
+      {
+        "title": "TrueInsight — Anonymous Feedback System",
+        "category": "Web Development · Python, Flask, MySQL",
+        "description": "Developed an anonymous feedback platform using Python, Flask and MySQL.",
+        "link": ""
+      }
+    ]
+  },
+  "skills": {
+    "show": true,
+    "heading": "What I bring.",
+    "groups": [
+      {
+        "label": "People & Business",
+        "items": [
+          "Communication",
+          "Team Leadership",
+          "Time Management",
+          "Teamwork",
+          "Adaptability"
+        ]
+      },
+      {
+        "label": "Functional",
+        "items": [
+          "Marketing",
+          "HR",
+          "Research & Analysis"
+        ]
+      },
+      {
+        "label": "Technology & Analytical Thinking",
+        "items": [
+          "Excel",
+          "Python",
+          "SQL",
+          "Canva"
+        ]
+      },
+      {
+        "label": "Languages",
+        "items": [
+          "English",
+          "Hindi",
+          "Marathi"
+        ]
+      },
+      {
+        "label": "Beyond work",
+        "items": [
+          "Academic & management presentations",
+          "Professional Kathak dancer",
+          "Reading & creative writing"
+        ]
+      }
+    ]
+  },
+  "certifications": {
+    "show": false,
+    "heading": "Certifications.",
+    "items": []
+  },
+  "contact": {
+    "show": true,
+    "heading": "Let's connect.",
+    "text": "I'm open to connecting, learning, and exploring opportunities for collaboration.",
+    "button": "Connect on LinkedIn ↗"
+  },
+  "footer": "Personal Resume · © 2026 Sejal Praveen Pethkar",
+  "resume": {
+    "label": "Download Resume",
+    "file": "assets/Sejal-Pethkar-Resume.pdf"
+  },
+  "story": {
+    "show": true,
+    "heading": "The story so far",
+    "items": [
+      {
+        "kicker": "Foundation",
+        "title": "Code first. Then people.",
+        "text": "A BSc in Computer Science at MIT-WPU, graduating in 2026 with a CGPA of 8.68/10, built the structured thinking. A PGDM at IMDR (2026–2028) now points it toward Marketing and HR.",
+        "bg": "#EAF0FB",
+        "tags": [
+          "BSc CS · 8.68/10",
+          "PGDM · IMDR"
+        ],
+        "image": "assets/img11.jpg",
+        "alt": "Sample placeholder image (img11)"
+      },
+      {
+        "kicker": "Research",
+        "title": "Why teenagers tap “buy”.",
+        "text": "A survey-based research project on Instagram's influence on teenagers' purchasing behaviour.",
+        "bg": "#F3EEE6",
+        "tags": [
+          "Research Project"
+        ],
+        "image": "assets/img11.jpg",
+        "alt": "Sample placeholder image (img11)"
+      },
+      {
+        "kicker": "Data",
+        "title": "The numbers behind the festivals.",
+        "text": "Analysed consumer behaviour and local vendor sales using Python and data-analysis techniques.",
+        "bg": "#EDF3EE",
+        "tags": [
+          "Python",
+          "Data Analysis"
+        ],
+        "image": "assets/img11.jpg",
+        "alt": "Sample placeholder image (img11)"
+      },
+      {
+        "kicker": "Build",
+        "title": "Practice for the real interview.",
+        "text": "PrepWise: an AI-based mock interview platform built with Next.js, Firebase and Vapi AI.",
+        "bg": "#F1ECF5",
+        "tags": [
+          "Next.js",
+          "Firebase",
+          "Vapi AI"
+        ],
+        "image": "assets/img11.jpg",
+        "alt": "Sample placeholder image (img11)"
+      },
+      {
+        "kicker": "Build",
+        "title": "Feedback without the fear.",
+        "text": "TrueInsight: an anonymous feedback platform built with Python, Flask and MySQL.",
+        "bg": "#F7EEE9",
+        "tags": [
+          "Python",
+          "Flask",
+          "MySQL"
+        ],
+        "image": "assets/img11.jpg",
+        "alt": "Sample placeholder image (img11)"
+      },
+      {
+        "kicker": "People",
+        "title": "The connector.",
+        "text": "As Internship / Placement Coordinator, coordinated communication between students and organisations and shared opportunity information.",
+        "bg": "#E9F1F4",
+        "tags": [
+          "Communication",
+          "Coordination"
+        ],
+        "image": "assets/img11.jpg",
+        "alt": "Sample placeholder image (img11)"
+      },
+      {
+        "kicker": "Next",
+        "title": "Live from the trade fair.",
+        "text": "An opportunity with Govind Milk at the Maharashtra Trade Fair (2–11 October 2026, Nigdi Pradhikaran, PCMC) covering exhibition management, consumer engagement and on-ground marketing. Status: opportunity details provided.",
+        "bg": "#F5F0E4",
+        "tags": [
+          "Opportunity"
+        ],
+        "image": "assets/img11.jpg",
+        "alt": "Sample placeholder image (img11)"
+      }
+    ]
+  }
+}
